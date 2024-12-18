@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+# Ex no:2 
+# Date:05-10-2024
+# Name:DINESH KARTHIK R
+# Reg no:24900716
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -29,6 +33,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+Developed By:DINESH KARTHIK R
+
+Reg no:24900716
 ```python
 import numpy as np
 import math
